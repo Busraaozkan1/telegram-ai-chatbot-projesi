@@ -1,0 +1,6 @@
+# Sanal ortam klasörünü GitHub'a yükleme
+venv/
+# Gizli Token dosyasını yükleme
+.env
+# Python derleme dosyalarını görmezden gel
+__pycache__/
